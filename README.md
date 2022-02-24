@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Romain PRADIER](@roprdr)
+- 👋 Hi, I’m [Romain PRADIER](https://github.com/roprdr/)
 - 👀 I am an innovation and new technology professional with 15+ years of experience in planning, 
 developing, launching, and managing technical and functional projects in VR, AR, XR along 
 with e-commerce platforms, web & native apps. 
